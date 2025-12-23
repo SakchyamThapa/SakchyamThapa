@@ -1,15 +1,20 @@
-## Sakchyam Thapa
+## 💡 Sakchyam Thapa
 
-**Tagline**  
-> I build systems that think quietly and fail honestly.
+### **Tagline**  
+> **I build systems that think quietly and fail honestly.**
 
-I work at the intersection of **machine learning**, **retrieval systems**, and **backend engineering** — focusing on software that survives contact with reality.
+I work at the intersection of **Machine Learning** 🔵, **Retrieval Systems** 🟢, and **Backend Engineering** 🟣 — crafting software that survives contact with reality.
 
-My interests revolve around:
-- Turning imperfect data into reliable decisions  
-- Designing retrieval systems that scale beyond demos  
-- Building APIs and automation that remain stable under pressure  
+---
 
-I believe the best systems are the ones you stop noticing once they’re deployed.
+### 🔹 **Core Focus**
+- **Turning imperfect data into reliable decisions** – transforming noise into actionable insights  
+- **Designing retrieval systems that scale** – beyond demos to real-world impact  
+- **Building resilient APIs and automation** – systems that remain stable under pressure  
 
-📫 sakchyamthapa.2006@gmail.com
+---
+
+### 🌟 **Philosophy**
+> “I believe the best systems are the ones you stop noticing once they’re deployed.”
+
+I strive to create software that is **silent in execution, honest in behavior, and robust in the wild**.
